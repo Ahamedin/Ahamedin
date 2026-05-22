@@ -193,19 +193,24 @@ const iklash = {
 <!--               CONTRIBUTION SNAKE ANIMATION                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--               CONTRIBUTION SNAKE ANIMATION                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com"/>
-  <img alt="github-snake" src="https://githubusercontent.com"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com"/>
+  <img alt="github-snake" src="https://github.com"/>
 </picture>
 
 </div>
 
 ---
+
 
 ---
 
