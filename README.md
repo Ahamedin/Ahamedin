@@ -161,15 +161,15 @@ const iklash = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iklashahamed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="180em" src="https://vercel.app" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iklashahamed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top Languages"/>
+<img height="180em" src="https://vercel.app" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iklashahamed&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+[![GitHub Streak](https://demolab.com)](https://git.io)
 
 </div>
 
@@ -183,7 +183,7 @@ const iklash = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iklashahamed&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://vercel.app)](https://github.com)
 
 </div>
 
@@ -197,14 +197,15 @@ const iklash = {
 
 <div align="center">
 
-<!-- This is generated via GitHub Actions — see setup guide below -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iklashahamed/iklashahamed/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iklashahamed/iklashahamed/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/iklashahamed/iklashahamed/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com"/>
+  <img alt="github-snake" src="https://githubusercontent.com"/>
 </picture>
 
 </div>
+
+---
 
 ---
 
