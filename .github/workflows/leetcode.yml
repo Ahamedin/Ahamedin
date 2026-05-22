@@ -1,14 +1,18 @@
-name: Generate Snake
+name: Sync LeetCode and Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # Runs automatically every 12 hours
+  workflow_dispatch: # Gives you the manual run button
+
+permissions:
+  contents: write # Grants permission to create the output branch
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Generate the Snake animation files
       - name: Generate Snake Files
         uses: Platane/snk@v3
         with:
@@ -17,7 +21,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             
-      - name: Push to Output Branch
+      # Step 2: Extract files and push them to the background output branch
+      - name: Push Images to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
