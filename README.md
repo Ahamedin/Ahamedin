@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src=".github/anime3.gif" width="100%" height="40%" />
+<img src=".github/anime3.gif" width="100%" />
 
-# Hey 👋 I'm Iklash Ahamed
+# Iklash Ahamed
 
-### Full Stack Developer • SDE Candidate • DSA Enthusiast • AI Builder
+### Full Stack Developer • SDE Candidate • AI Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron\&weight=500\&size=16\&duration=3500\&pause=1000\&color=C084FC\&center=true\&vCenter=true\&width=700\&lines=Building+full-stack+products+from+DB+schema+to+deployed+UI;Integrating+LLMs+%26+RAG+pipelines+into+real+applications;Crafting+immersive+3D+web+experiences+with+Three.js;Grinding+DSA+one+problem+at+a+time;Open+for+SDE+Internship+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk\&weight=600\&size=18\&duration=3500\&pause=1000\&color=C084FC\&center=true\&vCenter=true\&width=850\&lines=Building+scalable+full-stack+applications;Integrating+LLMs+and+RAG+into+real+products;Crafting+immersive+3D+web+experiences;Practicing+DSA+and+problem+solving+daily;Open+for+SDE+Internship+2026)](https://git.io/typing-svg)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0e0614?style=for-the-badge\&logo=vercel\&logoColor=c084fc)](https://iklashahamed.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e0614?style=for-the-badge\&logo=linkedin\&logoColor=a78bfa)](https://linkedin.com/in/iklashahamed)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0e0614?style=for-the-badge\&logo=leetcode\&logoColor=22d3ee)](https://leetcode.com/u/IklashAhamed/)
-[![Gmail](https://img.shields.io/badge/Gmail-0e0614?style=for-the-badge\&logo=gmail\&logoColor=e879f9)](mailto:iklashahamed@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0e0614?style=for-the-badge\&logo=github\&logoColor=a78bfa)](https://github.com/iklashahamed)
 
 ![](https://komarev.com/ghpvc/?username=iklashahamed\&color=c084fc\&style=flat-square\&label=PROFILE+VIEWS)
 
@@ -21,20 +21,19 @@
 
 ---
 
-## 🚀 About Me
+## About
 
-* 🎓 B.Tech Information Technology @ Kalasalingam Academy of Research and Education *(2023–2027)*
-* 💻 Full Stack Developer focused on scalable PERN stack applications
-* 🤖 Building AI-powered apps using RAG pipelines and LLM integrations
-* 🌐 Crafting immersive 3D web experiences using Three.js and Next.js
-* 🧠 Grinding DSA consistently for Software Development Engineer roles
-* 🏆 Top 3 Winner — Web Innovate Event
-* 💼 Intern @ **DrobospaceX Automation**
-* 🚀 Open to **SDE Internship Opportunities — 2026**
+* B.Tech Information Technology @ Kalasalingam Academy of Research and Education (2023–2027)
+* Full Stack Developer focused on scalable PERN stack applications
+* Building AI-powered products using RAG pipelines and LLM integrations
+* Developing immersive 3D web experiences with Three.js and Next.js
+* Practicing DSA consistently for Software Development Engineer roles
+* Internship experience at DrobospaceX Automation
+* Open for SDE Internship Opportunities — 2026
 
 ---
 
-## ⚔️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -61,7 +60,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project      | Description                          | Stack                           |
 | :----------- | :----------------------------------- | :------------------------------ |
@@ -73,23 +72,23 @@
 
 ---
 
-## 💻 LeetCode
+## LeetCode
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/IklashAhamed?theme=dark\&font=JetBrains%20Mono\&ext=heatmap\&border=0\&radius=4)](https://leetcode.com/u/IklashAhamed/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/IklashAhamed?theme=dark\&font=Space%20Grotesk\&ext=heatmap\&border=0\&radius=4)](https://leetcode.com/u/IklashAhamed/)
 
 </div>
 
 <div align="center">
 
-🧠 Arrays • Trees • Graphs • Dynamic Programming • Problem Solving
+Arrays • Trees • Graphs • Dynamic Programming • Problem Solving
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 * Data Structures & Algorithms
 * Operating Systems
@@ -101,7 +100,7 @@
 
 ---
 
-## 🟢 Open For Opportunities
+## Open For Opportunities
 
 <div align="center">
 
@@ -111,29 +110,37 @@
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-* 🥉 Top 3 — Web Innovate Hackathon
-* 💼 Internship @ DrobospaceX Automation
-* 🤖 Built multiple AI-powered applications
-* 🌐 Developed immersive AR/VR web experiences
-* 🚀 Shipped multiple full-stack applications
+* Top 3 — Web Innovate Hackathon
+* Internship @ DrobospaceX Automation
+* Built multiple AI-powered applications
+* Developed immersive AR/VR web experiences
+* Shipped multiple full-stack applications
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
+
+
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=iklashahamed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+![](https://github-readme-stats.vercel.app/api?username=Ahamedin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iklashahamed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahamedin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ahamedin&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -151,6 +158,6 @@
 
 <div align="center">
 
-### Code • Solve • Optimize • Repeat
+### Code • Solve • Optimize • Build
 
 </div>
