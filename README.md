@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src=".github/anime1.gif" width="100%" height="40%" />
+<img src=".github/anime3.gif" width="100%" height="40%" />
 
 # Hey 👋 I'm Iklash Ahamed
 
 ### Full Stack Developer • SDE Candidate • DSA Enthusiast • AI Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=16\&duration=3500\&pause=1000\&color=C084FC\&center=true\&vCenter=true\&width=700\&lines=Building+full-stack+products+from+DB+schema+to+deployed+UI;Integrating+LLMs+%26+RAG+pipelines+into+real+applications;Crafting+immersive+3D+web+experiences+with+Three.js;Grinding+DSA+one+problem+at+a+time;Open+for+SDE+Internship+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron\&weight=500\&size=16\&duration=3500\&pause=1000\&color=C084FC\&center=true\&vCenter=true\&width=700\&lines=Building+full-stack+products+from+DB+schema+to+deployed+UI;Integrating+LLMs+%26+RAG+pipelines+into+real+applications;Crafting+immersive+3D+web+experiences+with+Three.js;Grinding+DSA+one+problem+at+a+time;Open+for+SDE+Internship+2026)](https://git.io/typing-svg)
 
 <br/>
 
