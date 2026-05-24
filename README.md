@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_ANIME_GIF_BANNER_LINK" width="100%" />
+<img src=".github/anime1.gif" width="100%" height="40%" />
 
 # Hey 👋 I'm Iklash Ahamed
 
