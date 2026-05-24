@@ -1,6 +1,6 @@
 <div align="center">
 
-<video src=""C:\Users\DELL\Downloads\Create_a_high_quality_animated.mp4"" width="100%" autoplay loop muted playsinline></video>
+<img src="https://github.com" width="100%" alt="Header Banner" style="pointer-events: none;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Building+full-stack+products+%E2%80%94+DB+schema+to+deployed+UI;Integrating+LLMs+%26+RAG+pipelines+into+real+applications;Crafting+immersive+3D+web+experiences+with+Three.js;Grinding+DSA+%E2%80%94+one+problem+at+a+time;Open+for+SDE+Internship+%E2%80%94+2026)](https://git.io/typing-svg)
 
