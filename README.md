@@ -123,12 +123,11 @@ Arrays • Trees • Graphs • Dynamic Programming • Problem Solving
 ## GitHub Stats
 
 
-
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Ahamedin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahamedin&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahamedin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahamedin&theme=tokyonight)
 
 </div>
 
@@ -137,6 +136,7 @@ Arrays • Trees • Graphs • Dynamic Programming • Problem Solving
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ahamedin&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
+
 
 ---
 
