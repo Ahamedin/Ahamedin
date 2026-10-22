@@ -92,7 +92,6 @@ Arrays • Trees • Graphs • Dynamic Programming • Problem Solving
 
 * Data Structures & Algorithms
 * Operating Systems
-* DBMS
 * Computer Networks
 * System Design Fundamentals
 * Scalable Full Stack Architecture
